@@ -1,0 +1,11 @@
+# Local Obsidian vaults/settings; the distributable repository is plugin-only.
+/.obsidian/
+/apuma-plugin/
+
+# Build dependencies and per-vault plugin state.
+/node_modules/
+**/node_modules/
+/data.json
+/dist/
+
+.DS_Store

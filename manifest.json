@@ -1,0 +1,9 @@
+{
+	"id": "obsideen",
+	"name": "Obsideen Quran Reader",
+	"version": "0.1.0-beta.1",
+	"minAppVersion": "0.15.0",
+	"description": "A Quran reader for Obsidian with QCF Arabic layout and translation modes, built with Svelte.",
+	"author": "Obsideen",
+	"isDesktopOnly": false
+}

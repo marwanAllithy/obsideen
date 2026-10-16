@@ -1,0 +1,172 @@
+[
+  {
+    "id": 1,
+    "fileName": "bukhari",
+    "category": "the_9_books",
+    "englishTitle": "Sahih al-Bukhari",
+    "arabicTitle": "صحيح البخاري",
+    "englishAuthor": "Imam Muhammad ibn Ismail al-Bukhari",
+    "arabicAuthor": "الإمام محمد بن إسماعيل البخاري",
+    "length": 7277
+  },
+  {
+    "id": 2,
+    "fileName": "muslim",
+    "category": "the_9_books",
+    "englishTitle": "Sahih Muslim",
+    "arabicTitle": "صحيح مسلم",
+    "englishAuthor": "Imam Muslim ibn al-Hajjaj al-Naysaburi",
+    "arabicAuthor": "الإمام مسلم بن الحجاج القشيري النيسابوري",
+    "length": 7459
+  },
+  {
+    "id": 3,
+    "fileName": "nasai",
+    "category": "the_9_books",
+    "englishTitle": "Sunan al-Nasa'i",
+    "arabicTitle": "سنن النسائي",
+    "englishAuthor": "Imam Ahmad ibn Shu'ayb al-Nasa'i",
+    "arabicAuthor": "الإمام أبو عبد الرحمن أحمد بن شعيب النسائي",
+    "length": 5768
+  },
+  {
+    "id": 4,
+    "fileName": "abudawud",
+    "category": "the_9_books",
+    "englishTitle": "Sunan Abi Dawud",
+    "arabicTitle": "سنن أبي داود",
+    "englishAuthor": "Imam Sulayman ibn al-Ash'ath Abu Dawud al-Sijistani",
+    "arabicAuthor": "الإمام سليمان بن الأشعث أبو داود السجستاني",
+    "length": 5276
+  },
+  {
+    "id": 5,
+    "fileName": "tirmidhi",
+    "category": "the_9_books",
+    "englishTitle": "Jami' al-Tirmidhi",
+    "arabicTitle": "جامع الترمذي",
+    "englishAuthor": "Imam Abu Isa Muhammad ibn Isa al-Tirmidhi",
+    "arabicAuthor": "الإمام أبو عيسى محمد بن عيسى الترمذي",
+    "length": 4053
+  },
+  {
+    "id": 6,
+    "fileName": "ibnmajah",
+    "category": "the_9_books",
+    "englishTitle": "Sunan Ibn Majah",
+    "arabicTitle": "سنن ابن ماجه",
+    "englishAuthor": "Imam Muhammad ibn Yazid Ibn Majah al-Qazwini",
+    "arabicAuthor": "الإمام محمد بن يزيد بن ماجه القزويني",
+    "length": 4345
+  },
+  {
+    "id": 7,
+    "fileName": "malik",
+    "category": "the_9_books",
+    "englishTitle": "Muwatta Malik",
+    "arabicTitle": "موطأ مالك",
+    "englishAuthor": "Imam Malik ibn Anas",
+    "arabicAuthor": "الإمام مالك بن أنس",
+    "length": 1985
+  },
+  {
+    "id": 8,
+    "fileName": "ahmed",
+    "category": "the_9_books",
+    "englishTitle": "Musnad Ahmad ibn Hanbal",
+    "arabicTitle": "مسند الإمام أحمد بن حنبل",
+    "englishAuthor": "Imam Ahmad ibn Hanbal",
+    "arabicAuthor": "الإمام أحمد بن حنبل",
+    "length": 1374
+  },
+  {
+    "id": 9,
+    "fileName": "darimi",
+    "category": "the_9_books",
+    "englishTitle": "Sunan al-Darimi",
+    "arabicTitle": "سنن الدارمي",
+    "englishAuthor": "Imam Abu Muhammad Abd al-Rahman ibn Abd Allah ibn al-Darimi",
+    "arabicAuthor": "الإمام أبو محمد عبد الرحمن بن عبد الله بن الدارمي",
+    "length": 3406
+  },
+  {
+    "id": 10,
+    "fileName": "nawawi40",
+    "category": "forties",
+    "englishTitle": "The Forty Hadith of Imam Nawawi",
+    "arabicTitle": "الأربعون النووية",
+    "englishAuthor": "Imam Yahya ibn Sharaf al-Nawawi",
+    "arabicAuthor": "الإمام يحيى بن شرف النووي",
+    "length": 42
+  },
+  {
+    "id": 11,
+    "fileName": "qudsi40",
+    "category": "forties",
+    "englishTitle": "The Forty Hadith Qudsi",
+    "arabicTitle": "الأربعون القدسية",
+    "englishAuthor": "",
+    "arabicAuthor": "",
+    "length": 40
+  },
+  {
+    "id": 12,
+    "fileName": "shahwaliullah40",
+    "category": "forties",
+    "englishTitle": "The Forty Hadith of Shah Waliullah",
+    "arabicTitle": "أربعون ولي الله الدهلوي",
+    "englishAuthor": "Shah Waliullah Dahlawi",
+    "arabicAuthor": "الشاه ولي الدين الدهلوي",
+    "length": 40
+  },
+  {
+    "id": 13,
+    "fileName": "riyad_assalihin",
+    "category": "other_books",
+    "englishTitle": "Riyad as-Salihin",
+    "arabicTitle": "رياض الصالحين",
+    "englishAuthor": "Imam Yahya ibn Sharaf al-Nawawi",
+    "arabicAuthor": "الإمام يحيى بن شرف النووي",
+    "length": 1896
+  },
+  {
+    "id": 14,
+    "fileName": "mishkat_almasabih",
+    "category": "other_books",
+    "englishTitle": "Mishkat al-Masabih",
+    "arabicTitle": "مشكاة المصابيح",
+    "englishAuthor": "Al-Khatib Al-Tabrizi",
+    "arabicAuthor": "الإمام الكاتب التبريزي",
+    "length": 4428
+  },
+  {
+    "id": 15,
+    "fileName": "aladab_almufrad",
+    "category": "other_books",
+    "englishTitle": "Al-Adab Al-Mufrad",
+    "arabicTitle": "الأدب المفرد",
+    "englishAuthor": "Imam Muhammad ibn Ismail al-Bukhari",
+    "arabicAuthor": "الإمام محمد بن إسماعيل البخاري",
+    "length": 1326
+  },
+  {
+    "id": 16,
+    "fileName": "shamail_muhammadiyah",
+    "category": "other_books",
+    "englishTitle": "Shama'il Muhammadiyah",
+    "arabicTitle": "الشمائل المحمدية",
+    "englishAuthor": "Imam Tirmidhi",
+    "arabicAuthor": "الإمام الترمذي",
+    "length": 402
+  },
+  {
+    "id": 17,
+    "fileName": "bulugh_almaram",
+    "category": "other_books",
+    "englishTitle": "Bulugh al-Maram",
+    "arabicTitle": "بلوغ المرام",
+    "englishAuthor": "Ibn Hajar al-Asqalani",
+    "arabicAuthor": "الإمام ابن حجر العسقلاني",
+    "length": 1767
+  }
+]
